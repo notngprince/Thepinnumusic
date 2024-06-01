@@ -1,4 +1,4 @@
-#  MULTI-MUSIC BOT BY GlaceYT 
+#  MULTI-MUSIC BOT BY Prince Roy
 ▶️ simple and powerful multi music bot.
 ▶️ consisting of various commands.
 ▶️ Still in development you may face minor bugs|
